@@ -33,11 +33,11 @@
 
 ## Tools
 
-[![My Skills](https://skillicons.dev/icons?i=webflow,figma,vscode,ps,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,vscode,ps,idea)](https://skillicons.dev)
 
 ## Other 
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,git,github,netlify,heroku,vite,vercel,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,git,github,vite,vercel,redux)](https://skillicons.dev)
 
 # `My Stats`
 
