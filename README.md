@@ -17,11 +17,11 @@
 
 ## Languages & markups
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,js,typescript,html,css)](https://skillicons.dev)
 
 ## Frameworks (Frontend)
 
-[![My Skills](https://skillicons.dev/icons?i=react,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,flutter)](https://skillicons.dev)
 
 ## Frameworks (CSS)
 
