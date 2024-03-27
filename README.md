@@ -29,7 +29,7 @@
 
 ## Backend & Databases
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongo,sql)](https://skillicons.dev)
 
 ## Tools
 
