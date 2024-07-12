@@ -34,7 +34,7 @@
 
 ## Tools
 
-[![My Skills](https://skillicons.dev/icons?i=figma,xd,scode,ps,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,vscode,ps,idea)](https://skillicons.dev)
 
 ## Other 
 
