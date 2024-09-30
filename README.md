@@ -1,6 +1,6 @@
 # Armi64bit
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedaminenasri&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedaminenasri" /> </p>
-
+software engineering student from Tunisia
 # `Connect with me` 
 
 <div id="badges">
